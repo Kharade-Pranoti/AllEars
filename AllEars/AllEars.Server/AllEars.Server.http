@@ -1,0 +1,6 @@
+@AllEars.Server_HostAddress = http://localhost:5265
+
+GET {{AllEars.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

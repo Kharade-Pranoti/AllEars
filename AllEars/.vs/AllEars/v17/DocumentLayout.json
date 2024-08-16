@@ -1,0 +1,1140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\folder\\AllEars\\AllEars\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E97412-094A-4569-9826-DCE375C1C50F}|allears.client\\allears.client.esproj|d:\\folder\\allears\\allears\\allears.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{71E97412-094A-4569-9826-DCE375C1C50F}|allears.client\\allears.client.esproj|solutionrelative:allears.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E97412-094A-4569-9826-DCE375C1C50F}|allears.client\\allears.client.esproj|d:\\folder\\allears\\allears\\allears.client\\src\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{71E97412-094A-4569-9826-DCE375C1C50F}|allears.client\\allears.client.esproj|solutionrelative:allears.client\\src\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\entities\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\entities\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E97412-094A-4569-9826-DCE375C1C50F}|allears.client\\allears.client.esproj|d:\\folder\\allears\\allears\\allears.client\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E97412-094A-4569-9826-DCE375C1C50F}|allears.client\\allears.client.esproj|solutionrelative:allears.client\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E97412-094A-4569-9826-DCE375C1C50F}|allears.client\\allears.client.esproj|d:\\folder\\allears\\allears\\allears.client\\src\\index.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{71E97412-094A-4569-9826-DCE375C1C50F}|allears.client\\allears.client.esproj|solutionrelative:allears.client\\src\\index.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E97412-094A-4569-9826-DCE375C1C50F}|allears.client\\allears.client.esproj|d:\\folder\\allears\\allears\\allears.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{71E97412-094A-4569-9826-DCE375C1C50F}|allears.client\\allears.client.esproj|solutionrelative:allears.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E97412-094A-4569-9826-DCE375C1C50F}|allears.client\\allears.client.esproj|d:\\folder\\allears\\allears\\allears.client\\src\\apiclient.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{71E97412-094A-4569-9826-DCE375C1C50F}|allears.client\\allears.client.esproj|solutionrelative:allears.client\\src\\apiclient.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\services\\bookappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\services\\bookappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E97412-094A-4569-9826-DCE375C1C50F}|allears.client\\allears.client.esproj|d:\\folder\\allears\\allears\\allears.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{71E97412-094A-4569-9826-DCE375C1C50F}|allears.client\\allears.client.esproj|solutionrelative:allears.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E97412-094A-4569-9826-DCE375C1C50F}|allears.client\\allears.client.esproj|d:\\folder\\allears\\allears\\allears.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{71E97412-094A-4569-9826-DCE375C1C50F}|allears.client\\allears.client.esproj|solutionrelative:allears.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\services\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\services\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\repositories\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\repositories\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\services\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\services\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\repositories\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\repositories\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\repositories\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\repositories\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E97412-094A-4569-9826-DCE375C1C50F}|allears.client\\allears.client.esproj|d:\\folder\\allears\\allears\\allears.client\\allears.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{71E97412-094A-4569-9826-DCE375C1C50F}|allears.client\\allears.client.esproj|solutionrelative:allears.client\\allears.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\controllers\\billingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\controllers\\billingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\controllers\\clinicaldoctoravailabilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\controllers\\clinicaldoctoravailabilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\services\\billingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\services\\billingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\services\\clinicaldoctoravailabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\services\\clinicaldoctoravailabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\controllers\\counsellingdoctoravailabilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\controllers\\counsellingdoctoravailabilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\services\\counsellingdoctoryavailabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\services\\counsellingdoctoryavailabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\repositories\\billingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\repositories\\billingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\AppData\\Local\\Temp\\.vsdbgsrc\\437684163430f6798e00e24b7347fd1572cbde51ae0d110ec998171a8e124386\\ServiceProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\repositories\\counsellingpsychologistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\repositories\\counsellingpsychologistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\repositories\\counsellingdoctoravailabilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\repositories\\counsellingdoctoravailabilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\repositories\\clinicalpsychologistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\repositories\\clinicalpsychologistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\repositories\\clinicaldoctoravailabilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\repositories\\clinicaldoctoravailabilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\repositories\\bookappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\repositories\\bookappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\services\\ibookappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\services\\ibookappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\repositories\\ibookappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\repositories\\ibookappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\entities\\bookappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\entities\\bookappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\services\\icounsellingdoctoravailabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\services\\icounsellingdoctoravailabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\services\\icounsellingpsychologistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\services\\icounsellingpsychologistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\repositories\\icounsellingdoctoravailabilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\repositories\\icounsellingdoctoravailabilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\services\\iclinicaldoctoravailabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\services\\iclinicaldoctoravailabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\entities\\counsellingdoctoravailability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\entities\\counsellingdoctoravailability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\repositories\\icounsellingpsychologistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\repositories\\icounsellingpsychologistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\repositories\\iclinicaldoctoravailabilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\repositories\\iclinicaldoctoravailabilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\services\\iclinicalpsychologistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\services\\iclinicalpsychologistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\entities\\clinicaldoctoravailability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\entities\\clinicaldoctoravailability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\services\\ibillingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\services\\ibillingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\entities\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\entities\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\repositories\\iclinicalpsychologistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\repositories\\iclinicalpsychologistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\repositories\\ibillingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\repositories\\ibillingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\entities\\counsellingpsychologist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\entities\\counsellingpsychologist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\entities\\clinicalpsychologist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\entities\\clinicalpsychologist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\controllers\\counsellingpsychologistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\controllers\\counsellingpsychologistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\controllers\\clinicalpsychologistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\controllers\\clinicalpsychologistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\services\\counsellingpsychologistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\services\\counsellingpsychologistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|d:\\folder\\allears\\allears\\allears.server\\services\\clinicalpsychologistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026D0E7-BFEE-4CFA-8CC3-41A77304EEC1}|AllEars.Server\\AllEars.Server.csproj|solutionrelative:allears.server\\services\\clinicalpsychologistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\AppData\\Local\\Temp\\.vsdbgsrc\\1c9ab5b1c0f648b576ab008b9c510c4e075350d39582108f68ae6bde77531c83\\EntityFrameworkServiceCollectionExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\.gitignore",
+              "RelativeDocumentMoniker": "AllEars.Server\\.gitignore",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\.gitignore",
+              "RelativeToolTip": "AllEars.Server\\.gitignore",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAswGQAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-16T04:24:22.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\allears.client\\.gitignore",
+              "RelativeDocumentMoniker": "allears.client\\.gitignore",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\allears.client\\.gitignore",
+              "RelativeToolTip": "allears.client\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-16T04:23:09.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Program.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Program.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Program.cs",
+              "RelativeToolTip": "AllEars.Server\\Program.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAgwJwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T04:13:33.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AllEars.Server\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBQAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:23:27.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Entities\\Login.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Entities\\Login.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Entities\\Login.cs",
+              "RelativeToolTip": "AllEars.Server\\Entities\\Login.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:12:53.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.jsx",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\allears.client\\src\\Login.jsx",
+              "RelativeDocumentMoniker": "allears.client\\src\\Login.jsx",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\allears.client\\src\\Login.jsx",
+              "RelativeToolTip": "allears.client\\src\\Login.jsx",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAwCMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-08-15T17:01:02.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\allears.client\\public\\index.html",
+              "RelativeDocumentMoniker": "allears.client\\public\\index.html",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\allears.client\\public\\index.html",
+              "RelativeToolTip": "allears.client\\public\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-15T17:00:46.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index.jsx",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\allears.client\\src\\index.jsx",
+              "RelativeDocumentMoniker": "allears.client\\src\\index.jsx",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\allears.client\\src\\index.jsx",
+              "RelativeToolTip": "allears.client\\src\\index.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-08-15T17:00:35.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.jsx",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\allears.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "allears.client\\src\\App.jsx",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\allears.client\\src\\App.jsx",
+              "RelativeToolTip": "allears.client\\src\\App.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-08-15T17:00:02.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "apiClient.js",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\allears.client\\src\\apiClient.js",
+              "RelativeDocumentMoniker": "allears.client\\src\\apiClient.js",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\allears.client\\src\\apiClient.js",
+              "RelativeToolTip": "allears.client\\src\\apiClient.js",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-15T16:59:37.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookAppointmentService.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\BookAppointmentService.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Services\\BookAppointmentService.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\BookAppointmentService.cs",
+              "RelativeToolTip": "AllEars.Server\\Services\\BookAppointmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T20:27:36.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IBookAppointmentService.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\IBookAppointmentService.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Services\\IBookAppointmentService.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\IBookAppointmentService.cs",
+              "RelativeToolTip": "AllEars.Server\\Services\\IBookAppointmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T20:27:15.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BookAppointmentRepository.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\BookAppointmentRepository.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Repositories\\BookAppointmentRepository.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\BookAppointmentRepository.cs",
+              "RelativeToolTip": "AllEars.Server\\Repositories\\BookAppointmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T20:26:44.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IBookAppointmentRepository.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\IBookAppointmentRepository.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Repositories\\IBookAppointmentRepository.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\IBookAppointmentRepository.cs",
+              "RelativeToolTip": "AllEars.Server\\Repositories\\IBookAppointmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T20:26:27.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CounsellingDoctorAvailabilityController.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Controllers\\CounsellingDoctorAvailabilityController.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Controllers\\CounsellingDoctorAvailabilityController.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Controllers\\CounsellingDoctorAvailabilityController.cs",
+              "RelativeToolTip": "AllEars.Server\\Controllers\\CounsellingDoctorAvailabilityController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T20:19:53.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CounsellingDoctoryAvailabilityService.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\CounsellingDoctoryAvailabilityService.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Services\\CounsellingDoctoryAvailabilityService.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\CounsellingDoctoryAvailabilityService.cs",
+              "RelativeToolTip": "AllEars.Server\\Services\\CounsellingDoctoryAvailabilityService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvyoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T20:18:24.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ICounsellingDoctorAvailabilityService.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\ICounsellingDoctorAvailabilityService.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Services\\ICounsellingDoctorAvailabilityService.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\ICounsellingDoctorAvailabilityService.cs",
+              "RelativeToolTip": "AllEars.Server\\Services\\ICounsellingDoctorAvailabilityService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T20:15:38.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CounsellingDoctorAvailabilityRepository.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\CounsellingDoctorAvailabilityRepository.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Repositories\\CounsellingDoctorAvailabilityRepository.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\CounsellingDoctorAvailabilityRepository.cs",
+              "RelativeToolTip": "AllEars.Server\\Repositories\\CounsellingDoctorAvailabilityRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAmwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T20:14:20.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ICounsellingDoctorAvailabilityRepository.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\ICounsellingDoctorAvailabilityRepository.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Repositories\\ICounsellingDoctorAvailabilityRepository.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\ICounsellingDoctorAvailabilityRepository.cs",
+              "RelativeToolTip": "AllEars.Server\\Repositories\\ICounsellingDoctorAvailabilityRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T20:11:07.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ClinicalDoctorAvailabilityController.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Controllers\\ClinicalDoctorAvailabilityController.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Controllers\\ClinicalDoctorAvailabilityController.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Controllers\\ClinicalDoctorAvailabilityController.cs",
+              "RelativeToolTip": "AllEars.Server\\Controllers\\ClinicalDoctorAvailabilityController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T20:06:07.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ClinicalDoctorAvailabilityService.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\ClinicalDoctorAvailabilityService.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Services\\ClinicalDoctorAvailabilityService.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\ClinicalDoctorAvailabilityService.cs",
+              "RelativeToolTip": "AllEars.Server\\Services\\ClinicalDoctorAvailabilityService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T20:04:07.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IClinicalDoctorAvailabilityService.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\IClinicalDoctorAvailabilityService.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Services\\IClinicalDoctorAvailabilityService.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\IClinicalDoctorAvailabilityService.cs",
+              "RelativeToolTip": "AllEars.Server\\Services\\IClinicalDoctorAvailabilityService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T20:00:40.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ClinicalDoctorAvailabilityRepository.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\ClinicalDoctorAvailabilityRepository.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Repositories\\ClinicalDoctorAvailabilityRepository.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\ClinicalDoctorAvailabilityRepository.cs",
+              "RelativeToolTip": "AllEars.Server\\Repositories\\ClinicalDoctorAvailabilityRepository.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T19:58:04.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IClinicalDoctorAvailabilityRepository.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\IClinicalDoctorAvailabilityRepository.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Repositories\\IClinicalDoctorAvailabilityRepository.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\IClinicalDoctorAvailabilityRepository.cs",
+              "RelativeToolTip": "AllEars.Server\\Repositories\\IClinicalDoctorAvailabilityRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T19:48:28.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\WeatherForecast.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\WeatherForecast.cs",
+              "RelativeToolTip": "AllEars.Server\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T18:08:19.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.css",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\allears.client\\src\\App.css",
+              "RelativeDocumentMoniker": "allears.client\\src\\App.css",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\allears.client\\src\\App.css",
+              "RelativeToolTip": "allears.client\\src\\App.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-11T18:02:04.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "index.css",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\allears.client\\src\\index.css",
+              "RelativeDocumentMoniker": "allears.client\\src\\index.css",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\allears.client\\src\\index.css",
+              "RelativeToolTip": "allears.client\\src\\index.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-11T18:00:22.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "allears.client.esproj",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\allears.client\\allears.client.esproj",
+              "RelativeDocumentMoniker": "allears.client\\allears.client.esproj",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\allears.client\\allears.client.esproj",
+              "RelativeToolTip": "allears.client\\allears.client.esproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-11T17:09:12.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AllEars.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:59:55.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BillingController.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Controllers\\BillingController.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Controllers\\BillingController.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Controllers\\BillingController.cs",
+              "RelativeToolTip": "AllEars.Server\\Controllers\\BillingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:29:10.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ClinicalPsychologistController.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Controllers\\ClinicalPsychologistController.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Controllers\\ClinicalPsychologistController.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Controllers\\ClinicalPsychologistController.cs",
+              "RelativeToolTip": "AllEars.Server\\Controllers\\ClinicalPsychologistController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:28:26.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "CounsellingPsychologistController.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Controllers\\CounsellingPsychologistController.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Controllers\\CounsellingPsychologistController.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Controllers\\CounsellingPsychologistController.cs",
+              "RelativeToolTip": "AllEars.Server\\Controllers\\CounsellingPsychologistController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:27:47.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BillingService.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\BillingService.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Services\\BillingService.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\BillingService.cs",
+              "RelativeToolTip": "AllEars.Server\\Services\\BillingService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:20:32.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "CounsellingPsychologistService.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\CounsellingPsychologistService.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Services\\CounsellingPsychologistService.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\CounsellingPsychologistService.cs",
+              "RelativeToolTip": "AllEars.Server\\Services\\CounsellingPsychologistService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:18:14.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ClinicalPsychologistService.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\ClinicalPsychologistService.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Services\\ClinicalPsychologistService.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\ClinicalPsychologistService.cs",
+              "RelativeToolTip": "AllEars.Server\\Services\\ClinicalPsychologistService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:17:41.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CounsellingPsychologistRepository.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\CounsellingPsychologistRepository.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Repositories\\CounsellingPsychologistRepository.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\CounsellingPsychologistRepository.cs",
+              "RelativeToolTip": "AllEars.Server\\Repositories\\CounsellingPsychologistRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:09:40.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ICounsellingPsychologistRepository.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\ICounsellingPsychologistRepository.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Repositories\\ICounsellingPsychologistRepository.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\ICounsellingPsychologistRepository.cs",
+              "RelativeToolTip": "AllEars.Server\\Repositories\\ICounsellingPsychologistRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:08:07.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IBillingService.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\IBillingService.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Services\\IBillingService.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\IBillingService.cs",
+              "RelativeToolTip": "AllEars.Server\\Services\\IBillingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:02:52.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ICounsellingPsychologistService.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\ICounsellingPsychologistService.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Services\\ICounsellingPsychologistService.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\ICounsellingPsychologistService.cs",
+              "RelativeToolTip": "AllEars.Server\\Services\\ICounsellingPsychologistService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:02:13.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IClinicalPsychologistService.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\IClinicalPsychologistService.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Services\\IClinicalPsychologistService.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\IClinicalPsychologistService.cs",
+              "RelativeToolTip": "AllEars.Server\\Services\\IClinicalPsychologistService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:01:20.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BillingRepository.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\BillingRepository.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Repositories\\BillingRepository.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\BillingRepository.cs",
+              "RelativeToolTip": "AllEars.Server\\Repositories\\BillingRepository.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T17:43:27.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IBillingRepository.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\IBillingRepository.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Repositories\\IBillingRepository.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\IBillingRepository.cs",
+              "RelativeToolTip": "AllEars.Server\\Repositories\\IBillingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T17:39:15.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CounsellingPsychologist.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Entities\\CounsellingPsychologist.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Entities\\CounsellingPsychologist.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Entities\\CounsellingPsychologist.cs",
+              "RelativeToolTip": "AllEars.Server\\Entities\\CounsellingPsychologist.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAA9wD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T17:28:06.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CounsellingDoctorAvailability.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Entities\\CounsellingDoctorAvailability.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Entities\\CounsellingDoctorAvailability.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Entities\\CounsellingDoctorAvailability.cs",
+              "RelativeToolTip": "AllEars.Server\\Entities\\CounsellingDoctorAvailability.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T17:28:01.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BookAppointment.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Entities\\BookAppointment.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Entities\\BookAppointment.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Entities\\BookAppointment.cs",
+              "RelativeToolTip": "AllEars.Server\\Entities\\BookAppointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T17:27:34.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "AllEars.Server\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAYwDcAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T17:20:57.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Services\\CategoryService.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\CategoryService.cs",
+              "RelativeToolTip": "AllEars.Server\\Services\\CategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T17:13:25.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Services\\ICategoryService.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "AllEars.Server\\Services\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T17:09:16.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "AllEars.Server\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwDkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T17:00:05.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "AllEars.Server\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:51:03.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ClinicalPsychologistRepository.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\ClinicalPsychologistRepository.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Repositories\\ClinicalPsychologistRepository.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\ClinicalPsychologistRepository.cs",
+              "RelativeToolTip": "AllEars.Server\\Repositories\\ClinicalPsychologistRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T15:14:10.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IClinicalPsychologistRepository.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\IClinicalPsychologistRepository.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Repositories\\IClinicalPsychologistRepository.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\IClinicalPsychologistRepository.cs",
+              "RelativeToolTip": "AllEars.Server\\Repositories\\IClinicalPsychologistRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T14:48:31.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Controllers\\PatientController.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "AllEars.Server\\Controllers\\PatientController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBZwEEAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T12:02:08.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\PatientService.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Services\\PatientService.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\PatientService.cs",
+              "RelativeToolTip": "AllEars.Server\\Services\\PatientService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T12:01:13.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\IPatientService.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Services\\IPatientService.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\IPatientService.cs",
+              "RelativeToolTip": "AllEars.Server\\Services\\IPatientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T11:59:27.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Repositories\\PatientRepository.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\PatientRepository.cs",
+              "RelativeToolTip": "AllEars.Server\\Repositories\\PatientRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAxwDoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T11:50:09.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IPatientRepository.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\IPatientRepository.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Repositories\\IPatientRepository.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\IPatientRepository.cs",
+              "RelativeToolTip": "AllEars.Server\\Repositories\\IPatientRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T11:48:39.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Entities\\Patient.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Entities\\Patient.cs",
+              "RelativeToolTip": "AllEars.Server\\Entities\\Patient.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T11:38:25.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ClinicalPsychologist.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Entities\\ClinicalPsychologist.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Entities\\ClinicalPsychologist.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Entities\\ClinicalPsychologist.cs",
+              "RelativeToolTip": "AllEars.Server\\Entities\\ClinicalPsychologist.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAuwDEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T11:37:49.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ClinicalDoctorAvailability.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Entities\\ClinicalDoctorAvailability.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Entities\\ClinicalDoctorAvailability.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Entities\\ClinicalDoctorAvailability.cs",
+              "RelativeToolTip": "AllEars.Server\\Entities\\ClinicalDoctorAvailability.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAwCcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T11:37:46.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Entities\\Category.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Entities\\Category.cs",
+              "RelativeToolTip": "AllEars.Server\\Entities\\Category.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T11:37:31.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Billing.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Entities\\Billing.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Entities\\Billing.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Entities\\Billing.cs",
+              "RelativeToolTip": "AllEars.Server\\Entities\\Billing.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T11:35:49.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ServiceProvider.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\AppData\\Local\\Temp\\.vsdbgsrc\\437684163430f6798e00e24b7347fd1572cbde51ae0d110ec998171a8e124386\\ServiceProvider.cs",
+              "ToolTip": "C:\\Users\\DELL\\AppData\\Local\\Temp\\.vsdbgsrc\\437684163430f6798e00e24b7347fd1572cbde51ae0d110ec998171a8e124386\\ServiceProvider.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T09:36:42.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "EntityFrameworkServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\AppData\\Local\\Temp\\.vsdbgsrc\\1c9ab5b1c0f648b576ab008b9c510c4e075350d39582108f68ae6bde77531c83\\EntityFrameworkServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\DELL\\AppData\\Local\\Temp\\.vsdbgsrc\\1c9ab5b1c0f648b576ab008b9c510c4e075350d39582108f68ae6bde77531c83\\EntityFrameworkServiceCollectionExtensions.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T09:11:56.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "AllEars.Server\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAIwDgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T09:01:56.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Services\\AdminService.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\AdminService.cs",
+              "RelativeToolTip": "AllEars.Server\\Services\\AdminService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T09:00:02.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\IAdminService.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Services\\IAdminService.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Services\\IAdminService.cs",
+              "RelativeToolTip": "AllEars.Server\\Services\\IAdminService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T08:57:47.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Repositories\\AdminRepository.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\AdminRepository.cs",
+              "RelativeToolTip": "AllEars.Server\\Repositories\\AdminRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T07:41:25.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IAdminRepository.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\IAdminRepository.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Repositories\\IAdminRepository.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Repositories\\IAdminRepository.cs",
+              "RelativeToolTip": "AllEars.Server\\Repositories\\IAdminRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T07:39:00.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Entities\\Admin.cs",
+              "RelativeDocumentMoniker": "AllEars.Server\\Entities\\Admin.cs",
+              "ToolTip": "D:\\folder\\AllEars\\AllEars\\AllEars.Server\\Entities\\Admin.cs",
+              "RelativeToolTip": "AllEars.Server\\Entities\\Admin.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T07:19:40.423Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

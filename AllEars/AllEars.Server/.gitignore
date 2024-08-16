@@ -1,0 +1,100 @@
+﻿# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+*.nupkg.*
+*.nupkg.sha512
+*.snupkg.sha512
+*.snupkg.sha256
+*.snupkg.sha1
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Rider
+.idea/
+
+# Visual Studio
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.suo
+*.tlog/
+*.log
+*.csproj.user
+*.csproj.tmp
+*.suo
+*.nib
+*.pdb
+*.dll
+*.exe
+*.cache
+*.suo
+*.user
+*.vs/
+.vs/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Backup & report files
+*.bak
+*.tmp
+*.swp
+*.swo
+*.swo
+*.swo
+*.orig
+
+# DotCover
+*.dotCover
+
+# NCrunch
+*.ncrunch*
+
+# JetBrains Rider
+.idea/
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Vagrant
+.vagrant/
+
+# Coverage
+coverage/
+*.cover
+*.coverage
+*.cov
+*.testresults
+*.travis.yml
+
+# SQL Server
+*.mdf
+*.ldf
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.suo
+*.tlog
+*.vscode
+
+# Build results
+bin/
+obj/
