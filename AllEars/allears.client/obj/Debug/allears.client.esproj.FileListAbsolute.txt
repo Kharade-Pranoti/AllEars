@@ -1,1 +1,2 @@
 D:\AllEars\AllEars\allears.client\obj\Debug\allears.client.esproj.CoreCompileInputs.cache
+E:\Project2\Delete\AllEars\AllEars\allears.client\obj\Debug\allears.client.esproj.CoreCompileInputs.cache

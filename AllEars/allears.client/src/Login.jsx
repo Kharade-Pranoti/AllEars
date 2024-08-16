@@ -33,7 +33,7 @@ const Login = () => {
             password: password,
         };
         axios
-            .post("http://localhost:7032/api/auth/login", authReq, {
+            .post("https://localhost:7032/api/auth/login", authReq, {
                 headers: {
                     "Content-Type": "application/json",
                 },
